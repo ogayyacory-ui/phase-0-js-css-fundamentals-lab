@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "phase-0-js-css-layouts-lab",
+=======
+  "name": "phase-0-js-css-fundamentals-lab",
+>>>>>>> 976f7764900bd7b5d575a9b12a2ef75de57a17a1
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +14,13 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+<<<<<<< HEAD
     "jest": "^29.7.0",
+=======
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+>>>>>>> 976f7764900bd7b5d575a9b12a2ef75de57a17a1
     "jsdom": "^24.1.1"
   }
 }
